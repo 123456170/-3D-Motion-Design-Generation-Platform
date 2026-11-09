@@ -1,0 +1,9 @@
+streamlit
+numpy
+scipy
+torch
+pytest
+matplotlib
+imageio
+imageio-ffmpeg
+pillow
